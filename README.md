@@ -4,7 +4,7 @@
 ## miningpoolstats https://miningpoolstats.stream/foxdcoin
 
 ## Skypool
-https://foxd.skypool.ca/ 
+https://foxd.skypool.ca/ <br />
 `-a x16rv2 -o stratum+tcp://foxd.skypool.ca:3637 -u WALLET_ADDRESS `
 
 
