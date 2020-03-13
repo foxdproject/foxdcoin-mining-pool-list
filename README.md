@@ -1,7 +1,8 @@
 # Foxdcoin Pool List
 (In Random Order)
 
-## miningpoolstats https://miningpoolstats.stream/foxdcoin
+## miningpoolstats pool list<br />
+https://miningpoolstats.stream/foxdcoin
 
 ## Skypool
 https://foxd.skypool.ca/ <br />
