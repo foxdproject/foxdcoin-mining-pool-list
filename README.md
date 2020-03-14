@@ -48,5 +48,5 @@ https://swampthing.net/  <br />
 `-a x16rv2 -o stratum+tcp://swampthing.net:3638 -u wallet -p c=FXD`
 
 ## yourpool.org
-https://yourpool.org
+https://yourpool.org <br />
 `-a x16rv2 -o stratum+tcp://stratum.yourpool.org:5516 -u wallet -p`
