@@ -26,7 +26,7 @@ https://www2.coinmine.pl/fox/ <br />
 
 ## Mecrypto
 https://mecrypto.club/  <br />
-`-a x16rv2 -o stratum+tcp://eu.mecrypto.club:3291 -u -p c=FOXD`
+`-a x16rv2 -o stratum+tcp://eu.mecrypto.club:3291 -u -p c=FOXD `
 
 
 ## 0769.it
