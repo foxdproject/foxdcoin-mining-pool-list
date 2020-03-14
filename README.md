@@ -42,3 +42,7 @@ http://bibop.net  <br />
 ## miner-world.com  
 https://miner-world.com <br />
 `-a x16rv2 -a x21s -o stratum+tcp://stratum.miner-world.com:3637 -u -p c=FXD`
+
+## swampthing.net
+ https://swampthing.net/  <br />
+-a x16rv2 -o stratum+tcp://swampthing.net:3638 -u wallet p c=FXD
