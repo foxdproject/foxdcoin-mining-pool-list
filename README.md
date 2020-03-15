@@ -54,3 +54,7 @@ https://swampthing.net/  <br />
 ## yourpool.org
 https://yourpool.org <br />
 `-a x16rv2 -o stratum+tcp://stratum.yourpool.org:5516 -u wallet -p`
+
+## xserty.com
+https://www.xserty.com/ <br />
+` -a x16rv2 -o stratum+tcp://xserty.com:3637 -u <WALLET_ADDRESS>  -p c=FOX `
