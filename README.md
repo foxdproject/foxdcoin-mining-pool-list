@@ -28,10 +28,6 @@ https://www2.coinmine.pl/fox/ <br />
 https://mecrypto.club/  <br />
 `-a x16rv2 -o stratum+tcp://eu.mecrypto.club:3291 -u -p c=FOXD `
 
-## xserty
-https://www.xserty.com/ 
-` -a x16rv2 -o stratum+tcp://xserty.com:3637 -u <WALLET_ADDRESS>  -p c=FOX `
-
 
 ## 0769.it
 http://0769.it  <br />
