@@ -44,7 +44,7 @@ https://miner-world.com <br />
 `-a x16rv2 -a x21s -o stratum+tcp://stratum.miner-world.com:3637 -u -p c=FXD`
 
 ## swampthing.net
-https://swampthing.net/  <br />
+https://swampthing.net  <br />
 `-a x16rv2 -o stratum+tcp://swampthing.net:3638 -u wallet -p c=FXD`
 
 ## yourpool.org
@@ -52,5 +52,9 @@ https://yourpool.org <br />
 `-a x16rv2 -o stratum+tcp://stratum.yourpool.org:5516 -u wallet -p`
 
 ## xserty.com
-https://www.xserty.com/ <br />
+https://www.xserty.com <br />
 ` -a x16rv2 -o stratum+tcp://xserty.com:3637 -u <WALLET_ADDRESS>  -p c=FOX `
+
+## freakhouse.dev
+https://pool.freakhouse.dev <br />
+` -a x16rv2 -o stratum+tcp://pool.freakhouse.dev:3637 -u [wallet address] -p c=FOXD `
