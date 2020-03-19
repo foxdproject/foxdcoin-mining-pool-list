@@ -66,3 +66,7 @@ https://MasterMine.eu <br />
 ## miningcoins.ca
 https://miningcoins.ca/ <br />
 ` -a x16rv2 -o stratum+tcp://miningcoins.ca:3638 -u <wallet_address> -p c=FOXD`
+
+## Minerlagoon.co.uk
+https://Minerlagoon.co.uk <br />
+` -a x16rv2 -o stratum+tcp://minerlagoon.co.uk:5139	-u <wallet_address> -p c=FOXD`
