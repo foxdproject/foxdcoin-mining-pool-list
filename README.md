@@ -62,3 +62,7 @@ https://pool.freakhouse.dev <br />
 ## MasterMine.eu
 https://MasterMine.eu <br />
 ` -a x16rv2 -o stratum+tcp://mastermine.eu:3002 -u <WALLET_ADDRESS> -p c=FOXD`
+
+## miningcoins.ca
+https://miningcoins.ca/ <br />
+` -a x16rv2 -o stratum+tcp://miningcoins.ca:3638 -u <wallet_address> -p c=FOXD`
