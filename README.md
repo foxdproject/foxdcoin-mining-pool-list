@@ -58,3 +58,7 @@ https://www.xserty.com <br />
 ## freakhouse.dev
 https://pool.freakhouse.dev <br />
 ` -a x16rv2 -o stratum+tcp://pool.freakhouse.dev:3637 -u [wallet address] -p c=FOXD `
+
+## MasterMine.eu
+https://MasterMine.eu <br />
+` -a x16rv2 -o stratum+tcp://mastermine.eu:3002 -u <WALLET_ADDRESS> -p c=FOXD`
